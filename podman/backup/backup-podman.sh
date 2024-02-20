@@ -7,7 +7,7 @@ backupDate=$(date  +'%F')
 # External drive location
 EXT_DRIVE="/mnt/some/path"
 
-# Desire home directory
+# Home directory location
 HOME_DIR="/home/myuser"
 
 # Backup files into tar.gz archive
